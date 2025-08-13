@@ -1,0 +1,1 @@
+# at-mentions-in-commit-messages
