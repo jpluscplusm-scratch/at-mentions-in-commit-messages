@@ -1,3 +1,3 @@
 # at-mentions-in-commit-messages
 
-update 1
+update 2
